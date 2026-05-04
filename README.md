@@ -2,7 +2,7 @@
 
 ## I'm Liam Vedovato Lopes
 
-Computer Science student at PUC-SP and Backend Developer, focused on software development, automation, and database management. I enjoy solving problems, building practical systems, and working with data-driven solutions.
+Computer Science student at PUC-SP and aspiring Backend Developer, with focus on software development, automation, and database management. Interested in solving problems, building practical systems, and developing data-driven solutions.
 
 ## Technologies
 <a href="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact">
