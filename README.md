@@ -6,7 +6,7 @@ Computer Science student at PUC-SP and aspiring Backend Developer, with focus on
 
 ## Technologies
 <a href="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact">
-    <img src="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact" />
+    <img src="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact&cache_seconds=3600" />
 </a>
 
 ### Languages
