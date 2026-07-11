@@ -16,7 +16,7 @@ Computer Science student at PUC-SP and Backend Developer, with focus on software
 [![Frameworks](https://skillicons.dev/icons?i=fastapi,django,nextjs,spring,react&perline=6)](https://skillicons.dev)
 
 ### Tools, Devops and Database
-[![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,mongodb,linux&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,postgresql,mongodb,docker,git,linux&perline=7)](https://skillicons.dev)
 
 
 ## Let’s connect
