@@ -10,7 +10,7 @@ Computer Science student at PUC-SP and Backend Developer, with focus on software
 </a>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,ts,js,c,cpp&perline=7)](https://skillicons.dev)
 
 ### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=fastapi,django,nextjs,spring,react&perline=6)](https://skillicons.dev)
