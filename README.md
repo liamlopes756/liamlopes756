@@ -5,9 +5,13 @@
 Computer Science student at PUC-SP and Backend Developer, with focus on software development, automation, and database management. Interested in solving problems, building practical systems, and developing data-driven solutions.
 
 ## Technologies
-<a href="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact">
-    <img src="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact&cache_seconds=3600" />
-</a>
+<div>
+    <a href="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact">
+        <img src="https://github-readme-stats-three-azure-60.vercel.app/api/top-langs/?username=liamlopes756&layout=compact&cache_seconds=3600&theme=transparent&hide_border=true" alt="Liam's GitHub stats" />
+    </a>
+</div>
+
+
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=python,java,ts,js,c,cpp&perline=7)](https://skillicons.dev)
